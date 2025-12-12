@@ -2,7 +2,7 @@
 *(Isi judul proyek Anda di sini)*
 
 ## 👤 Informasi
-- **Nama:** [...]  
+- **Nama:** Fandhi Syahru Rishaleh  
 - **Repo:** [...]  
 - **Video:** [...]  
 
